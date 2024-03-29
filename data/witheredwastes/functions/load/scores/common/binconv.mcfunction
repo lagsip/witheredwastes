@@ -1,0 +1,27 @@
+scoreboard objectives add ww.common.binconv.bit.0 dummy
+scoreboard objectives add ww.common.binconv.bit.1 dummy
+scoreboard objectives add ww.common.binconv.bit.2 dummy
+scoreboard objectives add ww.common.binconv.bit.3 dummy
+scoreboard objectives add ww.common.binconv.bit.4 dummy
+scoreboard objectives add ww.common.binconv.bit.5 dummy
+scoreboard objectives add ww.common.binconv.bit.6 dummy
+scoreboard objectives add ww.common.binconv.bit.7 dummy
+scoreboard objectives add ww.common.binconv.bit.8 dummy
+scoreboard objectives add ww.common.binconv.bit.9 dummy
+scoreboard objectives add ww.common.binconv.bit.10 dummy
+scoreboard objectives add ww.common.binconv.bit.11 dummy
+scoreboard objectives add ww.common.binconv.bit.12 dummy
+scoreboard objectives add ww.common.binconv.bit.13 dummy
+scoreboard objectives add ww.common.binconv.bit.14 dummy
+scoreboard objectives add ww.common.binconv.bit.15 dummy
+scoreboard objectives add ww.common.binconv.bit.16 dummy
+scoreboard objectives add ww.common.binconv.bit.17 dummy
+scoreboard objectives add ww.common.binconv.bit.18 dummy
+scoreboard objectives add ww.common.binconv.bit.19 dummy
+scoreboard objectives add ww.common.binconv.bit.20 dummy
+scoreboard objectives add ww.common.binconv.bit.21 dummy
+scoreboard objectives add ww.common.binconv.bit.22 dummy
+scoreboard objectives add ww.common.binconv.bit.23 dummy
+scoreboard objectives add ww.common.binconv.bit.current dummy
+
+scoreboard objectives add ww.common.binconv.val dummy
