@@ -1,0 +1,87 @@
+attribute @s generic.attack_damage modifier remove 00770077-0-1-0-0
+attribute @s generic.attack_damage modifier remove 00770077-0-1-0-1
+attribute @s generic.attack_damage modifier remove 00770077-0-1-0-2
+attribute @s generic.attack_damage modifier remove 00770077-0-1-0-3
+attribute @s generic.attack_damage modifier remove 00770077-0-1-0-4
+attribute @s generic.attack_damage modifier remove 00770077-0-1-0-5
+attribute @s generic.attack_damage modifier remove 00770077-0-1-0-6
+attribute @s generic.attack_damage modifier remove 00770077-0-1-0-7
+attribute @s generic.attack_damage modifier remove 00770077-0-1-0-8
+attribute @s generic.attack_damage modifier remove 00770077-0-1-0-9
+attribute @s generic.attack_damage modifier remove 00770077-0-1-0-10
+attribute @s generic.attack_damage modifier remove 00770077-0-1-0-11
+attribute @s generic.attack_damage modifier remove 00770077-0-1-0-12
+attribute @s generic.attack_damage modifier remove 00770077-0-1-0-13
+attribute @s generic.attack_damage modifier remove 00770077-0-1-0-14
+attribute @s generic.attack_damage modifier remove 00770077-0-1-0-15
+
+attribute @s generic.attack_knockback modifier remove 00770077-0-1-1-0
+attribute @s generic.attack_knockback modifier remove 00770077-0-1-1-1
+attribute @s generic.attack_knockback modifier remove 00770077-0-1-1-2
+attribute @s generic.attack_knockback modifier remove 00770077-0-1-1-3
+attribute @s generic.attack_knockback modifier remove 00770077-0-1-1-4
+attribute @s generic.attack_knockback modifier remove 00770077-0-1-1-5
+attribute @s generic.attack_knockback modifier remove 00770077-0-1-1-6
+attribute @s generic.attack_knockback modifier remove 00770077-0-1-1-7
+attribute @s generic.attack_knockback modifier remove 00770077-0-1-1-8
+attribute @s generic.attack_knockback modifier remove 00770077-0-1-1-9
+attribute @s generic.attack_knockback modifier remove 00770077-0-1-1-10
+attribute @s generic.attack_knockback modifier remove 00770077-0-1-1-11
+attribute @s generic.attack_knockback modifier remove 00770077-0-1-1-12
+attribute @s generic.attack_knockback modifier remove 00770077-0-1-1-13
+attribute @s generic.attack_knockback modifier remove 00770077-0-1-1-14
+attribute @s generic.attack_knockback modifier remove 00770077-0-1-1-15
+
+attribute @s generic.follow_range modifier remove 00770077-0-1-2-0
+attribute @s generic.follow_range modifier remove 00770077-0-1-2-1
+attribute @s generic.follow_range modifier remove 00770077-0-1-2-2
+attribute @s generic.follow_range modifier remove 00770077-0-1-2-3
+attribute @s generic.follow_range modifier remove 00770077-0-1-2-4
+attribute @s generic.follow_range modifier remove 00770077-0-1-2-5
+attribute @s generic.follow_range modifier remove 00770077-0-1-2-6
+attribute @s generic.follow_range modifier remove 00770077-0-1-2-7
+attribute @s generic.follow_range modifier remove 00770077-0-1-2-8
+attribute @s generic.follow_range modifier remove 00770077-0-1-2-9
+attribute @s generic.follow_range modifier remove 00770077-0-1-2-10
+attribute @s generic.follow_range modifier remove 00770077-0-1-2-11
+attribute @s generic.follow_range modifier remove 00770077-0-1-2-12
+attribute @s generic.follow_range modifier remove 00770077-0-1-2-13
+attribute @s generic.follow_range modifier remove 00770077-0-1-2-14
+attribute @s generic.follow_range modifier remove 00770077-0-1-2-15
+
+attribute @s generic.max_health modifier remove 00770077-0-1-3-0
+attribute @s generic.max_health modifier remove 00770077-0-1-3-1
+attribute @s generic.max_health modifier remove 00770077-0-1-3-2
+attribute @s generic.max_health modifier remove 00770077-0-1-3-3
+attribute @s generic.max_health modifier remove 00770077-0-1-3-4
+attribute @s generic.max_health modifier remove 00770077-0-1-3-5
+attribute @s generic.max_health modifier remove 00770077-0-1-3-6
+attribute @s generic.max_health modifier remove 00770077-0-1-3-7
+attribute @s generic.max_health modifier remove 00770077-0-1-3-8
+attribute @s generic.max_health modifier remove 00770077-0-1-3-9
+attribute @s generic.max_health modifier remove 00770077-0-1-3-10
+attribute @s generic.max_health modifier remove 00770077-0-1-3-11
+attribute @s generic.max_health modifier remove 00770077-0-1-3-12
+attribute @s generic.max_health modifier remove 00770077-0-1-3-13
+attribute @s generic.max_health modifier remove 00770077-0-1-3-14
+attribute @s generic.max_health modifier remove 00770077-0-1-3-15
+execute store result entity @s Health double 1 run attribute @s generic.max_health get
+
+attribute @s generic.movement_speed modifier remove 00770077-0-1-4-0
+attribute @s generic.movement_speed modifier remove 00770077-0-1-4-1
+attribute @s generic.movement_speed modifier remove 00770077-0-1-4-2
+attribute @s generic.movement_speed modifier remove 00770077-0-1-4-3
+attribute @s generic.movement_speed modifier remove 00770077-0-1-4-4
+attribute @s generic.movement_speed modifier remove 00770077-0-1-4-5
+attribute @s generic.movement_speed modifier remove 00770077-0-1-4-6
+attribute @s generic.movement_speed modifier remove 00770077-0-1-4-7
+attribute @s generic.movement_speed modifier remove 00770077-0-1-4-8
+attribute @s generic.movement_speed modifier remove 00770077-0-1-4-9
+attribute @s generic.movement_speed modifier remove 00770077-0-1-4-10
+attribute @s generic.movement_speed modifier remove 00770077-0-1-4-11
+attribute @s generic.movement_speed modifier remove 00770077-0-1-4-12
+attribute @s generic.movement_speed modifier remove 00770077-0-1-4-13
+attribute @s generic.movement_speed modifier remove 00770077-0-1-4-14
+attribute @s generic.movement_speed modifier remove 00770077-0-1-4-15
+
+tag @s remove ww.enhanced
