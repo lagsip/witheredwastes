@@ -1,0 +1,13 @@
+execute if score @s ww.argument matches 1 run function witheredwastes:players/wasteland/doctor/conversation/1
+execute if score @s ww.argument matches 11 run function witheredwastes:players/wasteland/doctor/conversation/11
+execute if score @s ww.argument matches 111 run function witheredwastes:players/wasteland/doctor/conversation/111
+execute if score @s ww.argument matches 1111 run function witheredwastes:players/wasteland/doctor/conversation/1111
+execute if score @s ww.argument matches 11111 run function witheredwastes:players/wasteland/doctor/conversation/11111
+execute if score @s ww.argument matches 111111 run function witheredwastes:players/wasteland/doctor/conversation/111111
+execute if score @s ww.argument matches 1111111 run function witheredwastes:players/wasteland/doctor/conversation/1111111
+execute if score @s ww.argument matches 11111111 run function witheredwastes:players/wasteland/doctor/conversation/11111111
+execute if score @s ww.argument matches 2 run function witheredwastes:players/wasteland/doctor/conversation/2
+execute if score @s ww.argument matches 3 run function witheredwastes:players/wasteland/doctor/conversation/3
+execute if score @s ww.argument matches 4 run function witheredwastes:players/wasteland/doctor/conversation/4
+execute if score @s ww.argument matches 5 run function witheredwastes:players/wasteland/doctor/conversation/5
+execute if score @s ww.argument matches 15 run function witheredwastes:players/wasteland/doctor/conversation/15
