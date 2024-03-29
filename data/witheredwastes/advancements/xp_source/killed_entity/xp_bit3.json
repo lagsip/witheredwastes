@@ -1,0 +1,21 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:player_killed_entity",
+        "conditions": {
+          "entity": [
+            {
+              "condition": "minecraft:entity_scores",
+              "entity": "this",
+              "scores": {
+                "ww.stats.xp_bit.3": 1
+              }
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "function": "witheredwastes:progression/xp_source/killed_entity/xp_bit3"
+    }
+  }

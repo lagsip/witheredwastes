@@ -1,0 +1,12 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:bred_animals",
+        "conditions": {}
+      }
+    },
+    "rewards": {
+      "function": "witheredwastes:progression/xp_source/bred_animals"
+    }
+  }
+  

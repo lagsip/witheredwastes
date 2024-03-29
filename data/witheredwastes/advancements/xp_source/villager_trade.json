@@ -1,0 +1,11 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:villager_trade"
+      }
+    },
+    "rewards": {
+      "function": "witheredwastes:progression/xp_source/villager_trade"
+    }
+  }
+  

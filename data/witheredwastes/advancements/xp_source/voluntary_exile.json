@@ -1,0 +1,11 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:voluntary_exile"
+      }
+    },
+    "rewards": {
+      "function": "witheredwastes:progression/xp_source/voluntary_exile"
+    }
+  }
+  

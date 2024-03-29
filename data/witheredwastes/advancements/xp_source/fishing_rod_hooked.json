@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:fishing_rod_hooked",
+        "conditions": {
+          "item": {}
+        }
+      }
+    },
+    "rewards": {
+      "function": "witheredwastes:progression/xp_source/fishing_rod_hooked"
+    }
+  }
+  

@@ -1,0 +1,12 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:enchanted_item",
+        "conditions": {}
+      }
+    },
+    "rewards": {
+      "function": "witheredwastes:progression/xp_source/enchanted_item"
+    }
+  }
+  

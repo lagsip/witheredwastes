@@ -1,0 +1,12 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:hero_of_the_village",
+        "conditions": {}
+      }
+    },
+    "rewards": {
+      "function": "witheredwastes:progression/xp_source/hero_of_the_village"
+    }
+  }
+  
