@@ -1,0 +1,23 @@
+Strength:
+    atk_dmg
+Agility:
+    spd
+Dexterity:
+    atk_spd
+Vitality:
+    max hp
+Charisma:
+    trading
+Magic:
+    enchanting
+Foresight:
+    luck
+Intelligence:
+    brewing
+Wisdom:
+    xp gain
+Soul:
+    
+    awakening by using a totem of undying
+    gain access to the astral ocean.
+    point count serves as the life points of your soul
