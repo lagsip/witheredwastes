@@ -1,21 +1,61 @@
-MIT License
+Copyright (c) 2024 lagsip
 
-Copyright (c) 2024 lexip
+In this license is described how my (/lagsip's) datapacks may or may not be used. The license is subject to change and may be modified at my sole discretion at any time. 
+Last altered: 29.03.2024
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+OBJECTS
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+  -lagsip (later in this license referred to as I)
+  -lagsip's works/projects/datapacks (later in this license referred to as my works/projects/datapacks)
+    Any code, datapacks or other properties of mine
+  -The user (later in this license referred to as you)
+    Any individual or group using my projects
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+
+PERMITTED USES:
+
+  -You are permitted to use any of my datapacks in their UNMODIFIED VERSION
+
+      1.for personal purposes in a singleplayer world.
+      2.on any private or public Minecraft server. Additionally, it is recommended, but not required, to give credit to me or put up notice that my datapack is in use.
+      3.in a publicly distributed modpack.
+
+  -You are permitted to modify any of my datapacks as long as you do not publicly distribute any version of it
+
+      1.for private use in a singleplayer world.
+      2.on a private or public Minecraft server ONLY if proper credit has been given.
+
+
+PROHIBITED USES:
+
+  -You are forbidden to redistribute, republish or reupload any of my datapacks in any form
+
+  -You are forbidden to use any of my datapacks (outside use-cases of looking at my code a resource to learn from)
+
+      1.in a publicly distributed datapack-pack without my express permission
+          a.in their UNMODIFIED form,
+          b.in their MODIFIED form or
+          c.as any PORTION of their code
+      2.in a publicly distributed modpack
+          a.in any MODIFIED form with a single exception:
+              i.The modification of predicates is allowed unconditionally.
+          b.as any PORTION of their code with two exceptions:
+              i.Directly copying any systems under functions/common is allowed if proper credit is given. (Note: It is free to look at my code for any common systems and implement similar systems in your own projects without having to give credit. Only blindly copying my own code of said systems required you to give credit.)
+              ii.Creating compatibility addons for any of my datapacks with others.
+      3.1.as part of a training dataset for or 
+      3.2.for configuration, testing, debugging or augmenting 
+        artificial intelligence, neural networks or other generative systems, if no express permission has been given by myself. This applies ono matter if the resulting system stores, refers to or directly calls from any of my code or other works.
+
+
+EXEMPTIONS:
+
+  -I reserve the right to prohibit certain individuals or groups from profiting off of my projects at my sole discretion.
+    However, no individual or group will be prohibited from personal or non-profit uses of my projects, given that the guidelines of this license have been followed
+
+  -I reserve the right to create and distribute modified versions of my projects and datapacks, at any time, for any reason.
+
+  -Lastly, I reserve the right to make changes to this license at any time, at my sole discretion and on a general or individual basis
+
+
+
+Lagsip holds full copyright over all parts of their datapacks and projects
