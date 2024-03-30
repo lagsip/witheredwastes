@@ -12,12 +12,12 @@ Coming soon
 
 Other eligible Websites:
 Planteminecraft: Coming soon
-Modrinth: Coming soon
+Modrinth: https://modrinth.com/datapack/witheredwastes
 
 For more creations made by me visit:
 Github: https://github.com/lagsip
-Planetminecraft: Coming soon
-Modrinth: Coming soon
+Planetminecraft: https://www.planetminecraft.com/member/lagsip/
+Modrinth: https://modrinth.com/user/lagsip
 
 
 The above provided websites are the only trustworthy sources for this datapack. If you downloaded this datapack somewhere else delete it and redownload it from one of said websites. I would also appreciate if you would message me if you plan on using my datapack in any Creation of yours. For example a modpack, addon or similar.
