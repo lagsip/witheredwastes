@@ -11,12 +11,17 @@ Official Tutorial Playlist:
 Coming soon
 
 Other eligible Websites:
-Planteminecraft: Coming soon
+
+Planteminecraft: https://www.planetminecraft.com/data-pack/witheredwastes/
+
 Modrinth: https://modrinth.com/datapack/witheredwastes
 
 For more creations made by me visit:
+
 Github: https://github.com/lagsip
+
 Planetminecraft: https://www.planetminecraft.com/member/lagsip/
+
 Modrinth: https://modrinth.com/user/lagsip
 
 
@@ -27,5 +32,6 @@ Apart from that enjoy the pack and if you're up to something sketchy read the li
 Social Media Links:
 
 Youtube: https://www.youtube.com/channel/UC4bQN51kRJSaRjff5dPjZKg
+
 Twitch: https://www.twitch.tv/lagsip
 
