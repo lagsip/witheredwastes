@@ -8,7 +8,7 @@ scoreboard players operation #temp ww.stats.magic.roll.chance *= #500 constant
 function witheredwastes:progression/stats/magic/roll
 
 #initialize the modificator for subsequent rolls if player has a magic stat of >100
-scoreboard players set #temp ww.stats.magic.roll.mod 100000
+scoreboard players set #temp ww.stats.magic.roll.mod 50000
 scoreboard players remove #temp ww.stats.magic 100
 execute if score #temp ww.stats.magic >= #0 constant run function witheredwastes:progression/stats/magic/next_roll
 
