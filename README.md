@@ -10,7 +10,7 @@ Github: https://github.com/lagsip/witheredwastes
 Wiki: https://github.com/lagsip/witheredwastes/wiki
 <br><br>
 Official Tutorial Playlist:
-Coming soon
+https://www.youtube.com/playlist?list=PLO5iFP83OkM25qO5K7N8BOD3aWchoBzC6
 
 <br><br>
 Other eligible Websites:
