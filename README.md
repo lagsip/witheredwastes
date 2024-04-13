@@ -2,7 +2,7 @@
 A minecraft datapack aiming to encourage and keep players invested.
 <br><br>
 
-Current Version: 0.9
+Current Version: 0.9.3
 <br><br>
 
 Github: https://github.com/lagsip/witheredwastes
