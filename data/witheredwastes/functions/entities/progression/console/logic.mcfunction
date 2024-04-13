@@ -4,7 +4,7 @@ scoreboard players enable @a[distance=..5] ww.console.selection
 
 #check that levelup was done right
 #execute if score @s ww.console.task matches -210 if score @s ww.stats.xp < @s ww.stats.xp.required run scoreboard players set @s ww.console.task -9210
-#execute if score @s ww.console.task matches -210 run function witheredwastes:progression/leveling/levelup
+execute if score @s ww.console.task matches -210 run function witheredwastes:progression/leveling/levelup
 
 #storing of data regarding application of stat points
 
