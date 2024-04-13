@@ -4,6 +4,6 @@ execute if score @s ww.claim matches 1 run function witheredwastes:players/contr
 execute if score @s ww.argument matches -1 run function witheredwastes:players/contribution/balance
 execute if entity @e[type=item,distance=..1,nbt={Item:{tag:{ww.ctoken:1b}}},sort=nearest,limit=1] run function witheredwastes:players/contribution/check_cycle
 
-execute if score @s ww.cpoints matches 8.. run function witheredwastes:players/contribution/effects/lvl1
+execute if score @s ww.cpoints >= .witheredwastes ww.cppt run function witheredwastes:players/contribution/effects/lvl1
 
 execute if predicate witheredwastes:contribution/remind run function witheredwastes:players/contribution/reminder
