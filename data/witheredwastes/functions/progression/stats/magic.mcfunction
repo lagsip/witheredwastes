@@ -9,10 +9,8 @@ execute if entity @e[type=armor_stand,tag=ww.common.item_display,tag=ww.common.c
 
 execute as @p[tag=ww.common.interaction.match] run function witheredwastes:progression/stats/magic/manage_rolls
 
-data modify storage witheredwastes:progression Magic.Temp.Enchantments set from storage witheredwastes:progression Magic.Item.tag.Enchantments
-data remove storage witheredwastes:progression Magic.Item.tag.Enchantments[]
-function witheredwastes:progression/stats/magic/improve_enchlvl
-data modify storage witheredwastes:progression Magic.Item.tag.WWTags.ench_improved set value 1b
+execute if data storage witheredwastes:progression Magic.Item.tag.StoredEnchantments run function witheredwastes:progression/stats/magic/book/enchanted_book
+execute if data storage witheredwastes:progression Magic.Item.tag.Enchantments run function witheredwastes:progression/stats/magic/item/enchanted_item
 
 execute as @e[type=item_display,tag=ww.common.item_display,dx=.5,dy=.5,dz=.5,sort=nearest,limit=1] run function witheredwastes:progression/stats/magic/apply_display
 execute as @e[type=armor_stand,tag=ww.common.item_display,dx=.5,dy=.5,dz=.5,sort=nearest,limit=1] run function witheredwastes:progression/stats/magic/apply_stand
