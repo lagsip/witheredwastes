@@ -4,4 +4,3 @@ data modify storage witheredwastes:progression Magic.Item.tag.StoredEnchantments
 data remove storage witheredwastes:progression Magic.Temp.StoredEnchantments[0]
 
 execute if data storage witheredwastes:progression Magic.Temp.StoredEnchantments[0] run function witheredwastes:progression/stats/magic/book/improve
-say hi
