@@ -1,4 +1,5 @@
 scoreboard objectives add ww.enabled dummy
+scoreboard objectives add ww.mobs.exclusice_selection dummy
 
 ##features
 #enable or disable any feature
@@ -24,6 +25,15 @@ execute unless score .witheredwastes ww.wither_power >= #0 constant run scoreboa
 ##enhanced_mobs
 #set distance from which on stats will be doubled
 execute unless score .witheredwastes ww.enhancement_factor >= #0 constant run scoreboard players set .witheredwastes ww.enhancement_factor 8192
+
+#select inclusive or exclusive selection of mobs. inclusive only runs for a specified type tag, while exclusive specifically disallows entities that are no mobs. this allows for newer or modded mobs to benefit as well, but may cause issues
+execute unless score .witheredwastes ww.mobs.exclusive_selection matches 1 run scoreboard players set .witheredwastes ww.mobs.exclusive_selection 0
+
+
+##Contribution
+#set the contribution points per effect tier
+execute unless score .witheredwastes ww.cppt >= #0 constant run scoreboard players set .witheredwastes ww.cppt 8
+
 
 ##respawn_delay
 #amount of ticks added with every deathcount
